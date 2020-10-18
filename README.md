@@ -10,9 +10,9 @@ Kelas   : T1.B1.20
 Prodi   : Teknik Informatika
 
 ## Tutorial Penggunaan Git
-1. Download Git
+### 1. Download Git
     Langkah pertama adalah download aplikasi Git di web resminya [Git download](https://git-scm.com/) dan pilihlah aplikasi Git sesuai dengan OS yang kamu gunakan sekarang (windows / linux)
-    ![Download git view](Pic/view%20git%20download.png)
+    ![Download git view](Pic/viewgitdownload.png)
 
-2. Install Git
+### 2. Install Git
     
