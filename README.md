@@ -22,6 +22,7 @@ Prodi   : Teknik Informatika
     ![Install git 1](Pic/Installgit1.png)
 
     * Selanjutnya tentukan folder instalasi, biasanya sesuai default, bila ingin folder yang lain tinggal diganti, lalu klik *Next*
+    
     ![Install git 2](Pic/Installgit2.png)
 
     * Selanjutnya pilih komponen yang akan di install, lalu klik *Next*
@@ -59,5 +60,6 @@ Prodi   : Teknik Informatika
     ![Install git 13](Pic/Installgit13.png)
 
     * Selesai untuk instalasi git
+
     ![Install git 14](Pic/Installgit14.png)
 
