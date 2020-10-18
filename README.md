@@ -87,9 +87,11 @@ Prodi   : Teknik Informatika
 4. Membuat Repository 
 
     * Buka akun [GitHub](https://github.com/). Buatlah akun GitHub dan lakukan *verivikasi email* agar akun GitHub bisa digunakan, bila sudah ada tinggal *Sign in*.
-    ![Git Hub Web](Pic/githubwe.png)
+    
+    ![Git Hub Web](Pic/githubweb.png)
 
     * Jika sudah terverifikasi akun GitHubnya atau sudah login, untuk membuat Repository atau juga bisa disebut Repo, Klik tanda +, lalu pilih *New Repostory*
+
     ![Git Hub New Repo](Pic/newrepo.png)
 
     * 
