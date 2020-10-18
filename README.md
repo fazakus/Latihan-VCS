@@ -22,8 +22,8 @@ Prodi   : Teknik Informatika
     ![Install git 1](Pic/Installgit1.png)
 
     * Selanjutnya tentukan folder instalasi, biasanya sesuai default, bila ingin folder yang lain tinggal diganti, lalu klik *Next*
-    
     ![Install git 2](Pic/Installgit2.png)
+
     * Selanjutnya pilih komponen yang akan di install, lalu klik *Next*
     ![Install git 3](Pic/Installgit3.png)
 
@@ -59,12 +59,28 @@ Prodi   : Teknik Informatika
     ![Install git 13](Pic/Installgit13.png)
 
     * Selesai untuk instalasi git
+    
     ![Install git 14](Pic/Installgit14.png)
 
 3. Menggunakan Git 
 
     * Buka software **GitBash** yang telah diinstall. Lakukan pengecekan versi gitbash dengan mengetik syntax berikut :
     > git --version
-    ![gitversion](Pic/gitversion.png)
-    
+
+    > ![gitversion](Pic/gitversion.png)
+
     Bila muncul versi Git berarti Git sudah berhasail di install dan siap untuk digunakan.
+
+    * Pada saat pertama kali menggunakan Git diperlukan konfigurasi username dan email dahulu dengan cara mengetik syntax berikut :
+    > git config --global user.name "Masukkan nama"
+    > git config --global user.email "Masukkan email"
+    > ![git username](Pic/inputusername&email.png)
+
+    * Setelah diisi, lakukan pengecekan username dan email dengan memasukkan syntax berikut :
+    > git config --global user.name
+    > git config --global user.email
+    >![git cek username](Pic/cekusername.png)
+
+4. Membuat Repository
+
+    *
