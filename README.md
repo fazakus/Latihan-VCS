@@ -110,6 +110,15 @@ Prodi   : Teknik Informatika
     * Setelah Repository dibuat maka akan muncul tampilan halaman repository anda seperti di bawah ini
     >[GitHub New File](Pic/githubnewfile.png)
 
+    * Sebelum melakukan perintah pada aplikasi Git, berikut adalah perintah dasar Git :
+    > **git init,** perintah untuk membuat repository local
+    > **git add,** perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
+    > **git commit,** perintah untuk menyimpan perubahan kedalam database git.
+    > **git push -u origin master,** perintah untuk mengirim perubahan pada repository local menuju server repository.
+    > **git clone [url],** perintah untuk membuat working directory yang diambil dari repositry sever.
+    > **git remote add origin [url],** perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
+    > **git pull,** perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+
     * Untuk mengkoneksikan Repository GitBash lokal dengan GitHub atau juga bisa disebut meremote GitHub pada GitBash lokal. Lakukan clone pada Github ke Gitbash dengan cara :
     > Klik Code, lalu Copy *Link URL* 
     ![Clone GitHub](Pic/Clonegithub.png)
@@ -149,6 +158,7 @@ Prodi   : Teknik Informatika
     >![HASIL](Pic/hasil.png)
 
 Selesai
+
 Terima kasih
 
 # UNIVERSITAS PELITA BANGSA
