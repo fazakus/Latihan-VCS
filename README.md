@@ -87,12 +87,20 @@ Prodi   : Teknik Informatika
 4. Membuat Repository 
 
     * Buka akun [GitHub](https://github.com/). Buatlah akun GitHub dan lakukan *verivikasi email* agar akun GitHub bisa digunakan, bila sudah ada tinggal *Sign in*.
-    
-    ![Git Hub Web](Pic/githubweb.png)
+    >![Git Hub Web](Pic/githubweb.png)
 
     * Jika sudah terverifikasi akun GitHubnya atau sudah login, untuk membuat Repository atau juga bisa disebut Repo, Klik tanda +, lalu pilih *New Repostory*
+    >![Git Hub New Repo](Pic/newrepo.png)
 
-    ![Git Hub New Repo](Pic/newrepo.png)
+    * Lalu akan muncul halaman *Create New Repository* lalu buatlah Repository sesuai keinginan anda. Misalkan saya akan membuat repository Latihan VCS seperti di gambar.
+    >![Create New Repo](Pic/Createnewrepo.png)
+
+    > Repository Name : Nama repository yang diinginkan
+    > Description : Isi dengan deskripsi atau penjelasan tentang repository anda
+    > Public / Private : PIlihan untuk repository yang akan dibuat bisa dilihan oleh semua orang (Public) atau hanya bisa dilhat sendiri(Private)
+    > Add a README.md file : Membuat file README.md ada di repository Anda
+    > Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.
+    > Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan
 
     * 
 
