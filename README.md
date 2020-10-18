@@ -120,11 +120,20 @@ Prodi   : Teknik Informatika
     * Akan muncul *Command Prompt* (CMD) Git Bash, lalu ketikkan syntax berikut :
     > git clone [URL Repository pada github]
     > Contoh : git clone https://github.com/fazakus/Latihan-VCS.git
+    >![clone](Pic/getbashclone.png)
 
     * Setelah selesai Cloning, pindah ke folder Cloning yang telah dibuat, contoh Latihan-VCS, dengan syntax berikut :
     > cd Latihan-VCS
     > Untuk penulisan spasi pada *Command Prompt* (CMD) tidak bisa menggunakan spasi, melainkan menggunakan "-" sebagai pengganti spasi, tapi untuk di tampilan atau outputnya nanti tetap spasi
+    >![GetbashCD](Pic/getbashcd.png)
 
     * Setelah masuk ke dalam folder *Latihan-VCS*, silahkan edit file **README.md** yang ada pada File Explorer menggunakan *Text Editor* seperti *Vim, Sublime Text, Notepad ++, Visual Studio Code*, dan yang lainnya. Disini saya menggunakan *Visual Studio Code* sebagai *Text Editor*
+    >![Readme with VCS](Pic/readmewithvcs.png)
 
+    > Setelah selesai editing, simpan file dengan cara **CTRL + S** atau bisa juga klik **File**, lalu **Save**
 
+    * Setelah save file README.md, kembali ke aplikasi **GitBash**. Ketik syntax berikut :
+    > git add .
+    >![Gitadd](Pic/gitadd.png)
+
+    > 
