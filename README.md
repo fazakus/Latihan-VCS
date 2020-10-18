@@ -11,3 +11,4 @@ Prodi   : Teknik Informatika
     Langkah pertama adalah download aplikasi Git di web [Git](https://git-scm.com/)
     Pilihlah aplikasi Git sesuai dengan OS yang kamu gunakan sekarang (windows / linux)
    ! [Download git view](https://github.com/fazakus/Latihan-VCS/blob/main/Pic/view%20git%20download.png)
+dd
