@@ -96,11 +96,35 @@ Prodi   : Teknik Informatika
     >![Create New Repo](Pic/Createnewrepo.png)
 
     > Repository Name : Nama repository yang diinginkan
+
     > Description : Isi dengan deskripsi atau penjelasan tentang repository anda
+
     > Public / Private : PIlihan untuk repository yang akan dibuat bisa dilihan oleh semua orang (Public) atau hanya bisa dilhat sendiri(Private)
+
     > Add a README.md file : Membuat file README.md ada di repository Anda
-    > Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.
+
+    > Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git
+
     > Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan
 
-    * 
+    * Setelah Repository dibuat maka akan muncul tampilan halaman repository anda seperti di bawah ini
+    >[GitHub New File](Pic/githubnewfile.png)
+
+    * Untuk mengkoneksikan Repository GitBash lokal dengan GitHub atau juga bisa disebut meremote GitHub pada GitBash lokal. Lakukan clone pada Github ke Gitbash dengan cara :
+    > Klik Code, lalu Copy *Link URL* 
+    ![Clone GitHub](Pic/Clonegithub.png)
+
+    * Buat dan pilih folder dimana kita akan *men-Clone* atau mendownload Repository dari GitHub ke direktori lokal. Lalu klik kanan di dalam folder yang sudah di tentukan, dan *pilih* ***Git Bash here***
+    ![New folder view](Pic/Newfolderview.png)
+
+    * Akan muncul *Command Prompt* (CMD) Git Bash, lalu ketikkan syntax berikut :
+    > git clone [URL Repository pada github]
+    > Contoh : git clone https://github.com/fazakus/Latihan-VCS.git
+
+    * Setelah selesai Cloning, pindah ke folder Cloning yang telah dibuat, contoh Latihan-VCS, dengan syntax berikut :
+    > cd Latihan-VCS
+    > Untuk penulisan spasi pada *Command Prompt* (CMD) tidak bisa menggunakan spasi, melainkan menggunakan "-" sebagai pengganti spasi, tapi untuk di tampilan atau outputnya nanti tetap spasi
+
+    * Setelah masuk ke dalam folder *Latihan-VCS*, silahkan edit file **README.md** yang ada pada File Explorer menggunakan *Text Editor* seperti *Vim, Sublime Text, Notepad ++, Visual Studio Code*, dan yang lainnya. Disini saya menggunakan *Visual Studio Code* sebagai *Text Editor*
+
 
