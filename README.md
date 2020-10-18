@@ -124,6 +124,7 @@ Prodi   : Teknik Informatika
 
     * Setelah selesai Cloning, pindah ke folder Cloning yang telah dibuat, contoh Latihan-VCS, dengan syntax berikut :
     > cd Latihan-VCS
+    
     > Untuk penulisan spasi pada *Command Prompt* (CMD) tidak bisa menggunakan spasi, melainkan menggunakan "-" sebagai pengganti spasi, tapi untuk di tampilan atau outputnya nanti tetap spasi
     >![GetbashCD](Pic/getbashcd.png)
 
@@ -136,4 +137,18 @@ Prodi   : Teknik Informatika
     > git add .
     >![Gitadd](Pic/gitadd.png)
 
-    > 
+    * Setelah *git add .* selesai, lakukkan commit. Dalam tanda petik bisa kita ketikkan sesuai keinginan, misal setelah input sesuatu pada file *Readme.md*, bisa di ketikka *"Update Readme.md"*, untuk menandai atau memberi informasi atau perubahan pada suatu commit tersebut. Caranya dengan syntax :
+    > git commit -m "Update Gambar"
+    >![commit](Pic/updatereadme.png)
+
+    * Setelah *commit* selesai, lakukan update pada remote repository dengan mengetikkan syntax berikut :
+    > git push
+    ![push](Pic/push.png)
+
+    * Setelah update, maka lihatlah pada Web Browser untuk melihat hasil perubahannya yang telah di *commit* dan *push* 
+    >![HASIL](Pic/hasil.png)
+
+Selesai
+Terima kasih
+
+# UNIVERSITAS PELITA BANGSA
