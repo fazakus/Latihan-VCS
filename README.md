@@ -117,7 +117,7 @@ Prodi   : Teknik Informatika
     * Buat dan pilih folder dimana kita akan *men-Clone* atau mendownload Repository dari GitHub ke direktori lokal. Lalu klik kanan di dalam folder yang sudah di tentukan, dan *pilih* ***Git Bash here***
     ![New folder view](Pic/Newfolderview.png)
 
-    * Sebelum melakukan perintah pada aplikasi Git, berikut adalah perintah dasar Git :
+    * Setelah di klik **Git Bash here** Akan muncul *Command Prompt* (CMD) Git Bash. Sebelum melakukan perintah pada aplikasi Git, berikut adalah perintah dasar Git :
     > **git init,** perintah untuk membuat repository local
 
     > **git add,** perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
@@ -131,8 +131,8 @@ Prodi   : Teknik Informatika
     > **git remote add origin [url],** perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
     
     > **git pull,** perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
-
-    * Akan muncul *Command Prompt* (CMD) Git Bash, lalu ketikkan syntax berikut :
+    
+    Untuk melakukan clone, ketikkan syntax berikut :
     > git clone [URL Repository pada github]
     > Contoh : git clone https://github.com/fazakus/Latihan-VCS.git
     >![clone](Pic/getbashclone.png)
