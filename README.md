@@ -153,12 +153,15 @@ Prodi   : Teknik Informatika
     >![Gitadd](Pic/gitadd.png)
 
     * Setelah *git add .* selesai, lakukkan commit. Dalam tanda petik bisa kita ketikkan sesuai keinginan, misal setelah input sesuatu pada file *Readme.md*, bisa di ketikka *"Update Readme.md"*, untuk menandai atau memberi informasi atau perubahan pada suatu commit tersebut. Caranya dengan syntax :
-    > git commit -m "Update Gambar"
+    > git commit -m "Update README.md"
     >![commit](Pic/updatereadme.png)
 
     * Setelah *commit* selesai, lakukan update pada remote repository dengan mengetikkan syntax berikut :
     > git push
     ![push](Pic/push.png)
+
+    > *Untuk pertama kali melakukan push, maka akan dimintai login ke akun **GitHub melalui aplikasi Git**  dahulu, bila sudah keluar ***pop up Login GitHub***, silahkan masukkan username/email dan password*
+    ![logingithub](Pic/logingithub.png)
 
     * Setelah update, maka lihatlah pada Web Browser untuk melihat hasil perubahannya yang telah di *commit* dan *push* 
     >![HASIL](Pic/hasil.png)
